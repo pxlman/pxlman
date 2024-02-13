@@ -8,7 +8,7 @@
 - A linux hobbiest, Bash scripter and a problem solver in C++ almost
 - Currently in Linux Bandit challenge
 - ⚡ Fun fact **I use Arch btw ;D**
-
+<img src="https://raw.githubusercontent.com/pxlman/pxlman/output/snake.svg" alt="Snake animation" />
 
 # 💻 Tech Stack:
 ![Bash Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
