@@ -1,4 +1,5 @@
-<img src="./animation2.gif" width=180 align="center"></img> <br/>
+<div align="center">
+<img src="./animation2.gif" width=180></img> </div><br/>
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/pxlman)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/.pxlman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-ashraf-5902171b9)
