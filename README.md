@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pxlmanx)
 
 # 💫 About Me
-- A linux hobbiest, Bash scripter and a problem solver in C++ almost
+- A linux hobbiest, Bash scripter and a problem solver in C++ usually
 - Currently in Linux Bandit challenge
 - ⚡ Fun fact **I use Arch btw ;D**
 
