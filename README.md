@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./animation2.gif" width=180></img> </div> <br/>
+<img src="./animation2.gif" width=200></img> </div> <br/>
 
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/pxlman)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/.pxlman)
