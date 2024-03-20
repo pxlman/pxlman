@@ -24,4 +24,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pxlman&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=pxlman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](./animation1.gif)
+
+<img src="./animation1.gif" width=300></img> </div> <br/>
