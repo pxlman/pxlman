@@ -25,4 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=pxlman&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<img src="./animation1.gif" width=250></img> </div> <br/>
+<img src="./animation1.gif" width=350></img> </div> <br/>
