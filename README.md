@@ -8,8 +8,8 @@
 
 # 💫 About Me
 - A linux hobbiest, Bash scripter and a problem solver in C++ usually
-- Currently in Linux Bandit challenge
-- ⚡ Fun fact **I use Arch btw ;D**
+- Newbie CTF player.
+- ⚡ Fun fact **I use NixOS btw ;D**
 
 # 💻 Tech Stack
 ![Bash Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
