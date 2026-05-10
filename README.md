@@ -22,5 +22,8 @@
 <br/>
 ![](./pacman.gif) 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pxlman&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pxlman&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 [![pxlman's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=pxlman&show_icons=true&theme=radical&rank_icon=github)](https://github.com/pxlman/pxlman)
+[![pxlman's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pxlman&theme=radical)](https://github.com/pxlman/pxlman)
