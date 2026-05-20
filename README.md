@@ -70,7 +70,7 @@ I wanted a lightweight Linux-native widget system that behaves naturally with th
 
 ---
 
-## ⚙️ Vole Machine Simulator
+## ⚙️ ZMO
 
 GUI simulator for an educational machine architecture using Qt6 and C++.
 
