@@ -11,6 +11,10 @@ I build tools, desktop apps, low-level experiments, and weird side projects that
 <b>"wait... I can probably build this myself."</b>
 </p>
 
+<!--
+![pxlman's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=pxlman\&show_icons=true\&theme=radical\&rank_icon=github)](https://github.com/pxlman)
+-->
+
 <div align="center">
 
 ![pxlman's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/pxlman?theme=dark&rank=true)
