@@ -11,6 +11,13 @@ I build tools, desktop apps, low-level experiments, and weird side projects that
 <b>"wait... I can probably build this myself."</b>
 </p>
 
+<div align="center">
+
+![pxlman's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/pxlman?theme=radical&rank=true)
+
+</div>
+
+
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge\&logo=Codeforces\&logoColor=white)](https://codeforces.com/profile/pxlman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ahmed-ashraf-5902171b9)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/pxlmanx)
@@ -206,12 +213,4 @@ CLI development and Linux desktop integration.
 </div>
 
 ---
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![pxlman's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/pxlman?theme=radical&rank=true)
-
-</div>
 
