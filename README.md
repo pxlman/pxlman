@@ -13,7 +13,7 @@ I build tools, desktop apps, low-level experiments, and weird side projects that
 
 <div align="center">
 
-![pxlman's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/pxlman?theme=radical&rank=true)
+![pxlman's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/pxlman?theme=dark&rank=true)
 
 </div>
 
