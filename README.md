@@ -157,7 +157,7 @@ Embedded Linux experimentation environment using U-Boot, QEMU, and TFTP booting.
 
 <div align="center">
 
-![](./pacman.gif)
+<!-- ![](./pacman.gif) -->
 
 ### “Build first. Optimize later. Then rewrite everything.” 😭
 
