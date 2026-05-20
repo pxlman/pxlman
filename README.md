@@ -64,43 +64,6 @@ A mobile application built with React Native + Expo focused on transforming goal
 
 ---
 
-## 🖥️ Wizer — Linux Desktop Widget System
-
-A customizable desktop widget application written in C++ and GTK.
-
-### Features
-
-* Floating or desktop-attached widgets
-* JSON-based configuration system
-* Mouse drag/resize support
-* Sticky-note style desktop integration
-
-### Why I built it
-
-I wanted a lightweight Linux-native widget system that behaves naturally with the desktop instead of feeling like a web app glued onto Linux 😭
-
----
-
-## ⚙️ ZMO
-
-GUI simulator for an educational machine architecture using Qt6 and C++.
-
-### Features
-
-* Step-by-step execution
-* Memory/register visualization
-* Interactive GUI debugging
-* Machine instruction simulation
-
-### What I learned
-
-* OOP architecture
-* Qt signal/slot systems
-* GUI engineering
-* Software design organization
-
----
-
 ## 🧮 Parallel Matrix Multiplication Optimizer
 
 High-performance matrix multiplication using MPI and divide-and-conquer partitioning.
@@ -138,22 +101,6 @@ Embedded Linux experimentation environment using U-Boot, QEMU, and TFTP booting.
 * Embedded Linux workflows
 * Kernel image loading
 * Low-level debugging
-
----
-
-## 🕌 Next Salah CLI
-
-Lightweight Linux terminal utility written in Python.
-
-### Features
-
-* Fetches prayer times directly in terminal
-* Designed for status bars/widgets
-* Lightweight and automation-friendly
-
-### Focus
-
-CLI development and Linux desktop integration.
 
 ---
 
