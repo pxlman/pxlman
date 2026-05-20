@@ -211,7 +211,7 @@ CLI development and Linux desktop integration.
 
 <div align="center">
 
-[![pxlman's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/pxlman?theme=radical&rank=true)
+![pxlman's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/pxlman?theme=radical&rank=true)
 
 </div>
 
